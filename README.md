@@ -1,2 +1,4 @@
 # hello-world
-Guide first repository
+Guided first repository
+Hi everyone!
+Christian here.
